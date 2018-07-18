@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My FirstApp</string>
+    <string name="edit_message">Butangi ug unod</string>
+    <string name="button_send">Send</string>
+    <string name="action_setting">Settings</string>
+    <string name="title_activity">MyActivity</string>
+</resources>
